@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Community Resource Hub",
+      "owner": "Mona Patel",
+      "status": "On track",
+      "recentActivity": "Published the volunteer onboarding guide and welcomed 12 new contributors.",
+      "priority": "High",
+      "summary": "Build a central place for local groups to share resources, events, and volunteer opportunities."
+    },
+    {
+      "name": "Open Data Catalog",
+      "owner": "Jordan Lee",
+      "status": "In progress",
+      "recentActivity": "Added transit accessibility datasets and documented the import workflow.",
+      "priority": "Medium",
+      "summary": "Make trusted community datasets easier to discover, understand, and reuse."
+    },
+    {
+      "name": "Neighborhood Stories",
+      "owner": "Avery Chen",
+      "status": "At risk",
+      "recentActivity": "The oral-history review is waiting on three participant approvals.",
+      "priority": "High",
+      "summary": "Collect and preserve short, resident-led stories about changes in the neighborhood."
+    },
+    {
+      "name": "Green Streets Pilot",
+      "owner": "Sam Rivera",
+      "status": "Planning",
+      "recentActivity": "Completed the first site walk and shared draft planting locations with partners.",
+      "priority": "Low",
+      "summary": "Pilot shade trees and safer walking routes around two busy community corridors."
+    }
+  ]
+}
